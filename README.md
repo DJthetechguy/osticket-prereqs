@@ -23,11 +23,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Access to Microsoft Azure: You need to be able to create and manage virtual machines.
+- Basic Understanding of Virtual Machines: Knowing how to set up a Windows 10 VM with appropriate specs (at least 2 vCPUs and 8GB RAM).
+- Familiarity with Remote Desktop (RDP): Required to connect to your VM.
+- Basic Windows Navigation Skills: To install software, browse files, and change settings within the VM.
+  
 
 <h2>Installation Steps</h2>
 
