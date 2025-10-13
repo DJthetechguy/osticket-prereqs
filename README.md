@@ -45,6 +45,31 @@ Enabled IIS (Internet Information Services) and CGI feature on a Windows 10 virt
 
 </p>
 <p>
+Configured PHP within IIS using the PHP Manager extension. This screenshot shows the PHP Manager window after successfully registering the PHP executable located in C:\PHP. This setup enables the web server to process PHP scripts, which is required for running applications like osTicket.
+</p>
+<br />
+
+<p>
+<img width="1658" height="977" alt="image" src="https://github.com/user-attachments/assets/5294bc27-cd52-4628-a67f-4398d98a2107" />
+
+</p>
+<p>
+Accessed the osTicket web installer initial setup screen through the web browser on the virtual machine. This screenshot shows the beginning of the installation process, where core help desk details, admin credentials, and database settings are entered to configure and deploy the osTicket ticketing system.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
