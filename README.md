@@ -13,9 +13,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
+- PHP
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -31,6 +33,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+<p>
+<img width="1661" height="930" alt="image" src="https://github.com/user-attachments/assets/0a967b7e-632c-4ae6-8b17-8b171606b512" />
+
+</p>
+<p>
+Created a new Windows 10 virtual machine in Microsoft Azure. This screenshot displays the VM settings page, where key configuration options such as VM name, resource group, region, size (CPU/RAM), username, and password are specified—providing the foundation for installing and running the osTicket ticketing system in a cloud environment.
+</p>
+<br />
 
 <p>
 <img width="1715" height="995" alt="image" src="https://github.com/user-attachments/assets/eb664adb-2443-45b5-89f8-26f897ae1669" />
