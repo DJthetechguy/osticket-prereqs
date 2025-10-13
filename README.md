@@ -69,10 +69,11 @@ Accessed the osTicket web installer initial setup screen through the web browser
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1167" height="738" alt="image" src="https://github.com/user-attachments/assets/70ef0cd3-6e8f-4c62-b941-4fd8cad85f8d" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a new MySQL database named “osTicket” using HeidiSQL, as shown in this screenshot. This step establishes a dedicated database to store all ticketing system data, user accounts, and configurations required for the osTicket application to operate.
 </p>
 <br />
 
