@@ -31,11 +31,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1715" height="995" alt="image" src="https://github.com/user-attachments/assets/eb664adb-2443-45b5-89f8-26f897ae1669" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enabled IIS (Internet Information Services) and CGI feature on a Windows 10 virtual machine. The screenshot displays the default IIS welcome page (accessible at http://127.0.0.1 loopback address), confirming a successful installation. This step sets up the web server environment needed to host osTicket and serve web content locally from the VM.
 </p>
 <br />
 
