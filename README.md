@@ -22,7 +22,7 @@ This project shows how I set up a web-based help desk system (osTicket) using a 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> 
 
 <h2>List of Prerequisites</h2>
 
