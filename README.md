@@ -17,6 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - Internet Information Services (IIS)
 - PHP
+- MySQL
 - osTicket
 
 <h2>Operating Systems Used </h2>
