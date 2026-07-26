@@ -35,11 +35,11 @@ This project shows how I set up a web-based help desk system (osTicket) using a 
 <h2>Installation Steps</h2>
 
 <p>
-<img width="1661" height="930" alt="image" src="https://github.com/user-attachments/assets/0a967b7e-632c-4ae6-8b17-8b171606b512" />
+<img <img width="1920" height="970" alt="Screenshot 2026-07-25 201707" src="https://github.com/user-attachments/assets/cf66c4a8-9f47-4f85-97e4-0e9e62a6fb3d" />
 
 </p>
 <p>
-Created a new Windows 10 virtual machine in Microsoft Azure. This screenshot displays the VM settings page, where key configuration options such as VM name, resource group, region, size (CPU/RAM), username, and password are specified—providing the foundation for installing and running the osTicket ticketing system in a cloud environment.
+Navigate to the Mircosoft Azure portal and sign in using your Microsoft account.
 </p>
 <br />
 
