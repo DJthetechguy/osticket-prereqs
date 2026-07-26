@@ -53,11 +53,12 @@ Sign in using your Microsoft account credentials. If you dont have an account, s
 <br />
 
 <p>
-<img width="1067" height="1033" alt="image" src="https://github.com/user-attachments/assets/0427ae32-0824-4e35-a50f-168cf849b86f" />
+<img <img width="1920" height="970" alt="Screenshot 2026-07-25 202658" src="https://github.com/user-attachments/assets/aedba7b6-0c71-4d15-863e-7c7b0c18e439" />
+ 
 
 </p>
 <p>
-Configured PHP within IIS using the PHP Manager extension. This screenshot shows the PHP Manager window after successfully registering the PHP executable located in C:\PHP. This setup enables the web server to process PHP scripts, which is required for running applications like osTicket.
+After logging into the Microsoft Azure portal, find and click on ‘Virtual Machines’ tab located to left in the navigation menu. Then select create to begin the process. The virtual machine is going to allow us to host and manage an isolated Windows environment for installing and configuring osTicket as a help desk ticketing system. 
 </p>
 <br />
 
