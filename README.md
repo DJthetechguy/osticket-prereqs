@@ -44,10 +44,11 @@ Open the Microsoft Azure Portal by entering https://portal.azure.com in your web
 <br />
 
 <p>
-<img width="1715" height="995" alt="image" src="https://github.com/user-attachments/assets/eb664adb-2443-45b5-89f8-26f897ae1669" />
+<img <img width="1920" height="970" alt="Screenshot 2026-07-25 202021" src="https://github.com/user-attachments/assets/17773fa8-3eda-485a-a05d-e9aa815db083" />
+
 </p>
 <p>
-Enabled IIS (Internet Information Services) and CGI feature on a Windows 10 virtual machine. The screenshot displays the default IIS welcome page (accessible at http://127.0.0.1 loopback address), confirming a successful installation. This step sets up the web server environment needed to host osTicket and serve web content locally from the VM.
+Sign in using your Microsoft account credentials. If you dont have an account, select Create one to register a new Microsoft account before proceeding to the Azure portal.
 </p>
 <br />
 
