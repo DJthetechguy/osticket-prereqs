@@ -72,11 +72,11 @@ Click the ‘+ Add’ button to start creating a new Virtual Machine. The virtua
 <br />
 
 <p>
-<img width="1167" height="738" alt="image" src="https://github.com/user-attachments/assets/70ef0cd3-6e8f-4c62-b941-4fd8cad85f8d" />
+<img <img width="1920" height="964" alt="Screenshot 2026-07-25 210447" src="https://github.com/user-attachments/assets/34f3c38a-6e16-45c1-971c-1252e9a13e18" />
 
 </p>
 <p>
-Created a new MySQL database named “osTicket” using HeidiSQL, as shown in this screenshot. This step establishes a dedicated database to store all ticketing system data, user accounts, and configurations required for the osTicket application to operate.
+Select your subscription to manage delpoyed resources and costs and create a new resource group. For this demo name it something easy to remember, like ‘osTicket Resource Group. The resource group was created to organize all componets of the osTicket deployment, including the virtual machine, storage, and networking resoures, making management easier.
 </p>
 <br />
 
