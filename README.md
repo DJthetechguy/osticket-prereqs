@@ -58,16 +58,16 @@ Sign in using your Microsoft account credentials. If you dont have an account, s
 
 </p>
 <p>
-After logging into the Microsoft Azure portal, find and click on ‘Virtual Machines’ tab located to left in the navigation menu. Then select create to begin the process. The virtual machine is going to allow us to host and manage an isolated Windows environment for installing and configuring osTicket as a help desk ticketing system. 
+After logging into the Microsoft Azure portal, find and click on ‘Virtual Machines’ tab located to left in the navigation menu.
 </p>
 <br />
 
 <p>
-<img width="1658" height="977" alt="image" src="https://github.com/user-attachments/assets/5294bc27-cd52-4628-a67f-4398d98a2107" />
+<img <img width="1920" height="968" alt="Screenshot 2026-07-25 203640" src="https://github.com/user-attachments/assets/32ade8d0-b771-4da2-9474-cf9dd79a867e" />
 
 </p>
 <p>
-Accessed the osTicket web installer initial setup screen through the web browser on the virtual machine. This screenshot shows the beginning of the installation process, where core help desk details, admin credentials, and database settings are entered to configure and deploy the osTicket ticketing system.
+Click the ‘+ Add’ button to start creating a new Virtual Machine. The virtual machine is going to allow us to host and manage an isolated Windows environment for installing and configuring osTicket as a help desk ticketing system. 
 </p>
 <br />
 
