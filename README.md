@@ -39,7 +39,7 @@ This project shows how I set up a web-based help desk system (osTicket) using a 
 
 </p>
 <p>
-Navigate to the Mircosoft Azure portal and sign in using your Microsoft account.
+Open the Microsoft Azure Portal by entering https://portal.azure.com in your web browser. This is the main website used to sign in and manage Azure cloud services.
 </p>
 <br />
 
