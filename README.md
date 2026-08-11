@@ -92,11 +92,12 @@ Set the Virtual Machine name as ‘osticket-vm’, then select and choose a regi
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1142" height="576" alt="Screenshot 2026-08-11 015750" src="https://github.com/user-attachments/assets/b2ab6a46-9701-479d-b9aa-8a5896f3bce7" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Choose a size for your Virtual Machine, with at least 2 virtual CPUs and at least 4 GB of RAM. This ensures your virtual machine runs smoothly and efficiently. 
 </p>
 <br />
 
