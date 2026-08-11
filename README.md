@@ -132,11 +132,13 @@ Accept the default networking options or create a new virtual network. Click nex
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1215" height="582" alt="Screenshot 2026-08-11 025833" src="https://github.com/user-attachments/assets/f0a65667-d320-43a8-afe0-e6080eb8ae00" />
+
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Review your settings. If everything looks good, click ‘Create’ to launch your new Virtual Machine
 </p>
 <br />
 
