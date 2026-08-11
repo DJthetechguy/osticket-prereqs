@@ -117,16 +117,17 @@ Create a username and a strong password. Make a note of them for later access.
 
 </p>
 <p>
-Accept the default inbound ports RDP 3389, make sure the licensing boxed is checked confirming your are in Windows 10/11 compliance. 
+Select which virtual machine network ports are accessible from the public internet. In this demo we will use RDP 3389, make sure the licensing boxed is checked confirming your are in Windows 10/11 compliance. 
 </p>
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1920" height="966" alt="Screenshot 2026-07-25 221330" src="https://github.com/user-attachments/assets/3cbfe6bd-71a4-47b0-88bc-1f7d18b60b64" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Accept the default networking options or create a new virtual network. Click next to continue. 
 </p>
 <br />
 
