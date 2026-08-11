@@ -153,11 +153,12 @@ Once created, find your VM in the list. Note the status of the VM as actively ru
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1920" height="969" alt="Screenshot 2026-07-26 031441" src="https://github.com/user-attachments/assets/7a7180f2-a785-48a6-a9fe-8c2a578e8fb0" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Use Remote Desktop to connect to your virtual machine (osticket-vm) by entering the public ip address of your newly created virtual machine. 
 </p>
 <br />
 
