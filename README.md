@@ -112,11 +112,12 @@ Create a username and a strong password. Make a note of them for later access.
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1920" height="967" alt="Screenshot 2026-07-25 220533" src="https://github.com/user-attachments/assets/082c1872-13b5-4fcf-98e3-b715c8133f9f" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Accept the default inbound ports RDP 3389, make sure the licensing boxed is checked confirming your are in Windows 10/11 compliance. 
 </p>
 <br />
 
