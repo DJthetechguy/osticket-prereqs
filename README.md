@@ -163,11 +163,12 @@ Use Remote Desktop to connect to your virtual machine (osticket-vm) by entering 
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1920" height="964" alt="Screenshot 2026-07-26 031832" src="https://github.com/user-attachments/assets/f2ae8128-75a9-46d1-99ea-754aa4fc7c80" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Log into the VM with Remote Desktop using the username and password we created in the earlier steps. 
 </p>
 <br />
 
