@@ -102,11 +102,12 @@ Choose a size for your Virtual Machine, with at least 2 virtual CPUs and at leas
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1920" height="967" alt="Screenshot 2026-07-25 215608" src="https://github.com/user-attachments/assets/c56a1a74-2d87-43e6-8d78-7e65e50ec68b" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Create a username and a strong password. Make a note of them for later access. 
 </p>
 <br />
 
