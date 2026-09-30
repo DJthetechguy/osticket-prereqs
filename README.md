@@ -173,7 +173,9 @@ Log into the VM with Remote Desktop using the username and password we created i
 <br />
 
 <p>
-<img width="1920" height="964" alt="Screenshot 2026-07-26 034553" src="https://github.com/user-attachments/assets/3b47fa7e-70a3-4b42-aaae-84f0aed2ec33" />
+<img width="1242" height="982" alt="image" src="https://github.com/user-attachments/assets/601e9e91-89da-4705-b7fa-c05ba7e52681" />
+
+
 
 
 </p>
