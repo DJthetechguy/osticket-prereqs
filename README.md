@@ -173,11 +173,12 @@ Log into the VM with Remote Desktop using the username and password we created i
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1920" height="964" alt="Screenshot 2026-07-26 034553" src="https://github.com/user-attachments/assets/3b47fa7e-70a3-4b42-aaae-84f0aed2ec33" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In the virtual machine, open a web browser and download the osTicket-Installation-Files.zip to your desktop.
 </p>
 <br />
 
