@@ -185,11 +185,12 @@ In the virtual machine, open a web browser and download the osTicket-Installatio
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1431" height="943" alt="image" src="https://github.com/user-attachments/assets/1f967046-c6c0-46b0-a159-d827c1d3fdab" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Right-click the downloaded zip file and select ‘Extract All.’ This will create a folder called ‘osTicket-Installation-Files’ on your desktop.
 </p>
 <br />
 
