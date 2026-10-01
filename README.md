@@ -195,11 +195,12 @@ Right-click the downloaded zip file and select ‘Extract All.’ This will crea
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1778" height="992" alt="image" src="https://github.com/user-attachments/assets/90c5c074-1e0e-419c-99a7-8d290d6544d4" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Go to ‘Turn Windows features on or off’ in Control Panel, then check ‘Internet Information Services’ and make sure CGI is also checked under World Wide Web Services.
 </p>
 <br />
 
