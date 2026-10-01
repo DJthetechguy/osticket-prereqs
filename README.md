@@ -205,20 +205,22 @@ Go to ‘Turn Windows features on or off’ in Control Panel, then check ‘Inte
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1386" height="887" alt="image" src="https://github.com/user-attachments/assets/32fd9196-68a7-46a5-80eb-fafc07dd68ee" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Navigate to the ‘osTicket-Installation-Files’ folder and double-click PHPManagerForIIS_V1.5.0.msi to install PHP Manager, which allows IIS to work with PHP.
 </p>
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1320" height="860" alt="image" src="https://github.com/user-attachments/assets/39e8d237-8c59-45d0-a49f-bdd54ee086d4" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In the same folder, double-click rewrite_amd64_en-US.msi to install the Rewrite Module, which is needed for URL management.
 </p>
 <br />
 
