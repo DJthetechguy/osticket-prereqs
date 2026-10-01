@@ -255,11 +255,12 @@ Inside ‘osTicket-Installation-Files,’ find VC_redist.x86.exe and double-clic
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1397" height="861" alt="image" src="https://github.com/user-attachments/assets/6b6d442d-23bd-4a09-87dd-b32aed9aa935" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Double-click mysql-5.5.62-win32.msi from the installation files folder. Choose ‘Typical Setup’ when prompted.
 </p>
 <br />
 
