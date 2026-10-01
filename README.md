@@ -235,11 +235,12 @@ Open File Explorer, navigate to the C: drive, right-click, and select ‘New’ 
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1580" height="937" alt="image" src="https://github.com/user-attachments/assets/7ce0ac3b-32ea-41c1-a63b-8806e6782531" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Download php-7.3.8-nts-Win32-VC15-x86.zip from the ‘osTicket-Installation-Files’ and extract its contents into the ‘C:\PHP’ folder.
 </p>
 <br />
 
