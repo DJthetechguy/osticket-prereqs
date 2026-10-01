@@ -245,11 +245,12 @@ Download php-7.3.8-nts-Win32-VC15-x86.zip from the ‘osTicket-Installation-File
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1352" height="848" alt="image" src="https://github.com/user-attachments/assets/9a1f8ad5-c499-40b6-9f1c-748dfba4757b" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Inside ‘osTicket-Installation-Files,’ find VC_redist.x86.exe and double-click to install it, which is necessary for running PHP correctly
 </p>
 <br />
 
