@@ -225,11 +225,12 @@ In the same folder, double-click rewrite_amd64_en-US.msi to install the Rewrite 
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1326" height="871" alt="image" src="https://github.com/user-attachments/assets/26a2b03d-d9a2-4396-8fa3-6000808cfbd1" />
+ 
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Open File Explorer, navigate to the C: drive, right-click, and select ‘New’ -> ‘Folder’ to create a new folder named ‘PHP.
 </p>
 <br />
 
