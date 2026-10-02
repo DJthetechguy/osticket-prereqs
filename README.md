@@ -294,11 +294,12 @@ In PHP Manager, click ‘Register a new PHP version’ and browse to ‘C:\PHP\p
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1461" height="797" alt="image" src="https://github.com/user-attachments/assets/fd9f91ed-f60a-4351-b1c8-4b3e1058ccbe" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In IIS, right-click on your server name and select ‘Stop,’ then right-click again and select ‘Start’ to reload the web server
 </p>
 <br />
 
