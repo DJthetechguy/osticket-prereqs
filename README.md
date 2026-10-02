@@ -265,11 +265,12 @@ Double-click mysql-5.5.62-win32.msi from the installation files folder. Choose �
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1442" height="832" alt="image" src="https://github.com/user-attachments/assets/23d3876c-a2c1-4b57-bc16-52cb709caed3" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+When the MySQL configuration wizard starts, choose ‘Standard Configuration’ and set the username and password both to ‘root.
 </p>
 <br />
 
