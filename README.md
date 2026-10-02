@@ -285,11 +285,11 @@ Search for ‘IIS’ in the Windows start menu, right-click, and select ‘Run a
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1460" height="837" alt="image" src="https://github.com/user-attachments/assets/06cfcb49-e60b-4fe2-9d48-7e9296099120" />
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In PHP Manager, click ‘Register a new PHP version’ and browse to ‘C:\PHP\php-cgi.exe’ to integrate PHP with IIS.
 </p>
 <br />
 
