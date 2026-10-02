@@ -275,11 +275,12 @@ When the MySQL configuration wizard starts, choose ‘Standard Configuration’ 
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1242" height="976" alt="image" src="https://github.com/user-attachments/assets/5f48696f-e908-4486-968d-49fd7906a835" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Search for ‘IIS’ in the Windows start menu, right-click, and select ‘Run as administrator’ to access IIS settings.
 </p>
 <br />
 
