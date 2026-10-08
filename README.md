@@ -325,11 +325,12 @@ Go to C:\inetpub\wwwroot, find the ‘upload’ folder, right-click it, and sele
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1607" height="857" alt="image" src="https://github.com/user-attachments/assets/c0241b5a-d23e-4941-adb8-5183140086d6" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Once more, reload IIS to ensure it recognizes the new osTicket folder by stopping and starting the server.
 </p>
 <br />
 
