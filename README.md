@@ -304,20 +304,23 @@ In IIS, right-click on your server name and select ‘Stop,’ then right-click 
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1572" height="912" alt="image" src="https://github.com/user-attachments/assets/41e92fd5-9e03-4fd8-817e-d01541205304" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” the destination of where to extract can be the default.
 </p>
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1718" height="866" alt="image" src="https://github.com/user-attachments/assets/c46cf5c8-98e5-44c0-9614-02c3518c19fb" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+now copy the “upload” folder into “c:\inetpub\wwwroot”. Within that same folder, Rename the folder “upload” to “osTicket”.
+
 </p>
 <br />
 
