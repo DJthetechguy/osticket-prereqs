@@ -309,7 +309,7 @@ In IIS, right-click on your server name and select ‘Stop,’ then right-click 
 
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” the destination of where to extract can be the default.
+From the ‘osTicket-Installation-Files’ folder, unzip osTicket-v1.15.8.zip and copy the ‘upload’ folder into C:\inetpub\wwwroot.
 </p>
 <br />
 
@@ -319,7 +319,7 @@ From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip
 
 </p>
 <p>
-now copy the “upload” folder into “c:\inetpub\wwwroot”. Within that same folder, Rename the folder “upload” to “osTicket”.
+Go to C:\inetpub\wwwroot, find the ‘upload’ folder, right-click it, and select ‘Rename’ to change it to ‘osTicket’ (no spaces).
 
 </p>
 <br />
