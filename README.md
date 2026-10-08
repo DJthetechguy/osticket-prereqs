@@ -335,11 +335,11 @@ Once more, reload IIS to ensure it recognizes the new osTicket folder by stoppin
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1896" height="932" alt="image" src="https://github.com/user-attachments/assets/4dac5848-40d4-4aa3-acd3-1af020d76509" />
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In IIS Manager, expand sites and select ‘Default’ -> ‘osTicket.’ On the right side, click ‘Browse *:80’ to view osTicket in your web browser.
 </p>
 <br />
 
