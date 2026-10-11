@@ -363,11 +363,12 @@ Refresh the osTicket page in your browser to see the enabled extensions reflecte
 </p>
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1381" height="852" alt="image" src="https://github.com/user-attachments/assets/f43ecfb4-4da1-467f-82ef-7824a6e86529" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Navigate to C:\inetpub\wwwroot\osTicket\include, find ost-sampleconfig.php, right-click, and select ‘Rename.’ Change it to ost-config.php.
 </p>
 
 <p>
