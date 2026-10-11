@@ -372,19 +372,21 @@ Navigate to C:\inetpub\wwwroot\osTicket\include, find ost-sampleconfig.php, righ
 </p>
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1661" height="808" alt="image" src="https://github.com/user-attachments/assets/ddbabee3-7684-44ee-b9ed-c3a2dd5fd9d1" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Right-click on ost-config.php, go to ‘Properties,’ then the ‘Security’ tab, click ‘Advanced,’ disable inheritance, and remove all permissions. Set new permissions for ‘Everyone’ to have ‘Full Control
 </p>
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1177" height="1022" alt="image" src="https://github.com/user-attachments/assets/a9ed3beb-57b8-461c-b705-10be5f161bfd" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In the web browser, click ‘Continue’ on the osTicket setup. Enter a name for your help desk and an email address to receive customer inquiries.
 </p>
 
 <p>
