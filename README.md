@@ -419,7 +419,8 @@ Congratulations! Your osTicket system is now installed and ready to use. Browse 
 </p>
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1295" height="856" alt="image" src="https://github.com/user-attachments/assets/268b0c0e-7d62-477c-b222-bbe6594ca7b6" />
+
 
 </p>
 <p>
