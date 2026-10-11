@@ -344,11 +344,12 @@ In IIS Manager, expand sites and select ‘Default’ -> ‘osTicket.’ On the 
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1621" height="917" alt="image" src="https://github.com/user-attachments/assets/f6834b12-1d0c-4173-9dd8-5c286f15c66c" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Back in IIS, double-click ‘PHP Manager.’ Click ‘Enable or disable an extension’ and enable the following: php_imap.dll, php_intl.dll, and php_opcache.dll.
 </p>
 <br />
 
