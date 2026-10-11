@@ -410,11 +410,12 @@ In the browser, complete the osTicket installation by entering the database deta
 </p>
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1192" height="910" alt="image" src="https://github.com/user-attachments/assets/1a310fed-85cc-4165-a93e-fc4e4e339c85" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Congratulations! Your osTicket system is now installed and ready to use. Browse to your help desk login page to get started.
 </p>
 
 <p>
