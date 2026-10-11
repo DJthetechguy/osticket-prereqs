@@ -399,11 +399,14 @@ Open HeidiSQL, create a new session using ‘root’ as both username and passwo
 </p>
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1182" height="910" alt="image" src="https://github.com/user-attachments/assets/b10fc99b-0950-479e-996c-066186244411" />
+
+
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+In the browser, complete the osTicket installation by entering the database details: Name ‘osTicket,’ Username ‘root,’ and Password ‘root.’ Click ‘Install Now.
 </p>
 
 <p>
