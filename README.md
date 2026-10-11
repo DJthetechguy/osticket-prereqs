@@ -354,11 +354,12 @@ Back in IIS, double-click ‘PHP Manager.’ Click ‘Enable or disable an exten
 <br />
 
 <p>
-<img width="1387" height="973" alt="image" src="https://github.com/user-attachments/assets/faa79040-7808-485f-8751-0f3d5d47e808" />
+<img width="1816" height="838" alt="image" src="https://github.com/user-attachments/assets/a7679164-abbb-4f84-ad52-4b488165183b" />
+
 
 </p>
 <p>
-Successfully logged into the osTicket admin dashboard for the first time after installation. This screenshot shows the main interface where tickets, users, and system settings are managed, confirming that osTicket was installed and configured correctly on the virtual machine.
+Refresh the osTicket page in your browser to see the enabled extensions reflected in the system requirements.
 </p>
 
 <p>
